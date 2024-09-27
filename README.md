@@ -47,7 +47,7 @@ Blog - https://blog.shivamnishad.com/how-to-build-a-portfolio-website-using-next
 
 Quickes way to deploy this repo - 
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/shivamnishad16/react-portfolio-template)
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/shivamnishad77/Portfolio)
 
 
 ### How To Contribute - 
